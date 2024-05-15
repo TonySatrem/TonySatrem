@@ -275,7 +275,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.96mb of code in 1926 edited files across 463 commits over last 89 days</small>
+                <small>estimation from 1.96mb of code in 1926 edited files across 463 commits over last 90 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2469,7 +2469,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="151.10552763819095 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="151.88442211055278 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2491,10 +2491,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">195</div>
+                                        <div class="value">196</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 195 times</div>
+                                <div class="text">Repositories have been deployed 196 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2664,7 +2664,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.50m out of 200m repositories</span>
+                                    <span class="gh">ranked 3.50m out of 198m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>

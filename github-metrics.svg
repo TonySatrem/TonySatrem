@@ -275,16 +275,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 720kb of code in 1199 edited files across 236 commits over last 92 days</small>
+                <small>estimation from 711kb of code in 1169 edited files across 221 commits over last 92 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.0968318975663" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="456.0968318975663" y="0" width="3.832791978534105" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.9296238761004" y="0" width="0.04330838393823848" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.9729322600386" y="0" width="0.027067739961399048" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.04994019494916" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="456.04994019494916" y="0" width="3.8788381996893198" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.92877839463847" y="0" width="0.04382868022247819" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.97260707486095" y="0" width="0.027392925139048868" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -296,8 +296,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>24.2k lines</div>
-                                <div>99.15%</div>
+                                <div>23.9k lines</div>
+                                <div>99.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -323,7 +323,7 @@
                             </div>
                             <small>
                                 <div>156 lines</div>
-                                <div>0.83%</div>
+                                <div>0.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2389,7 +2389,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.05 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="17.36 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2411,10 +2411,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">555</div>
+                                        <div class="value">556</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 555 times</div>
+                                <div class="text">Repositories have been deployed 556 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2619,7 +2619,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.56m out of 214m repositories</span>
+                                    <span class="gh">ranked 3.56m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>

@@ -275,16 +275,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 527kb of code in 898 edited files across 198 commits over last 92 days</small>
+                <small>estimation from 527kb of code in 895 edited files across 196 commits over last 92 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.3958094456447" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.3958094456447" y="0" width="5.503144122723378" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.8989535683681" y="0" width="0.06218241946580087" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.96113598783387" y="0" width="0.03886401216612555" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.38846764622707" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.38846764622707" y="0" width="5.510353545729872" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.8988211919569" y="0" width="0.06226388187265393" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.96108507382957" y="0" width="0.038914926170408703" height="8" fill="#e38c00"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2363,7 +2363,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.080000000000002 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="21.39 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2385,10 +2385,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">568</div>
+                                        <div class="value">569</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 568 times</div>
+                                <div class="text">Repositories have been deployed 569 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2593,7 +2593,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.56m out of 210m repositories</span>
+                                    <span class="gh">ranked 3.56m out of 208m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
